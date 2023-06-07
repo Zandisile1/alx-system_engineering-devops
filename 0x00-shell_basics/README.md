@@ -1,2 +1,4 @@
-#!/bin/bash
-"My second readme commit"
+# shell project 
+## pushing into github
+
+* using virtual machine
